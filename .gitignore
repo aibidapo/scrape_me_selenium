@@ -1,0 +1,5 @@
+.seleniumvenv/
+.ipynb_checkpoints/
+__pycache__/
+settings.py
+.vscode/
